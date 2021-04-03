@@ -1,6 +1,6 @@
 {
   "name": "codegrabs",
-  "version": "0.1.0",
+  "version": "0.1.01",
   "description": "codegrabs react native and web components",
   "main": "lib/commonjs/index",
   "module": "lib/module/index",
